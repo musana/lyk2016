@@ -32,7 +32,7 @@ Linux Yaz Kampı 2016 Web Uygulama Güvenliği ve Güvenli Kod Geliştirme Kursu
 * Bahadır YARDIM(http://github.com/)
 * Nikita TURKMEN(http://github.com/)
 * Ramazan VAPURCU(http://github.com/)
-* Musa ŞANA(http://github.com/)
+* [Musa ŞANA](http://github.com/)
 * İlknur Özen(http://github.com/)
 * Alper Sarper(http://github.com/)
 * Eda Solak(http://github.com/)
